@@ -1,6 +1,6 @@
 publlic class Solution {
 
-int a=100;
+int a=75;
 
 
 
