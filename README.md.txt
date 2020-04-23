@@ -1,7 +1,6 @@
 publlic class Solution {
 
-int a=75;
-
+These are the changes done by Aziaz
 
 
 }
