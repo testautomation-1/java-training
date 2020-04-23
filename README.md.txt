@@ -1,2 +1,7 @@
-Welcome TO GIT
-- Phan Changes
+publlic class Solution {
+
+int a=100;
+
+
+
+}
